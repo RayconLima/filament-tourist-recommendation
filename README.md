@@ -1,6 +1,6 @@
 
 ## Modelo Entidade Relacionamento
-[Acesse o DB Diagram para acessar o MER](https://dbdiagram.io/e/6666202c9713410b0524725c/666efb9ea179551be60082ef')
+[Acesse o DB Diagram para acessar o MER](https://dbdiagram.io/e/6666202c9713410b0524725c/666efb9ea179551be60082ef)
 
 ## O que fazer:
 ### Relatório 1: Análise do orçamento do usuário
