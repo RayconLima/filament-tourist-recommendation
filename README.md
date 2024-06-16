@@ -1,3 +1,7 @@
+
+## Modelo Entidade Relacionamento
+<iframe width="560" height="315" src='https://dbdiagram.io/e/6666202c9713410b0524725c/666efb9ea179551be60082ef' allowfullscreen> </iframe>
+
 ## O que fazer:
 ### Relatório 1: Análise do orçamento do usuário
 Este relatório analisará os orçamentos dos usuários e seus hábitos de consumo.
