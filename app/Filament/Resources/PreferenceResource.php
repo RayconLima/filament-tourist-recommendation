@@ -19,6 +19,8 @@ class PreferenceResource extends Resource
     protected static ?string $navigationGroup = 'CMS';
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
 
+    protected static  ?string $recordTitleAttribute = 'type';
+
     public static function form(Form $form): Form
     {
         return $form

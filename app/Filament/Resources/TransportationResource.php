@@ -20,6 +20,8 @@ class TransportationResource extends Resource
     protected static ?string $navigationGroup = 'Logistics and Planning';
     protected static ?string $navigationIcon = 'heroicon-o-truck';
 
+    protected static  ?string $recordTitleAttribute = 'type';
+
     public static function form(Form $form): Form
     {
         return $form

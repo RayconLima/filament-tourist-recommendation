@@ -19,6 +19,8 @@ class InterestResource extends Resource
     protected static ?string $navigationGroup = 'CMS';
     protected static ?string $navigationIcon = 'heroicon-o-light-bulb';
 
+    protected static  ?string $recordTitleAttribute = 'label';
+
     public static function form(Form $form): Form
     {
         return $form
