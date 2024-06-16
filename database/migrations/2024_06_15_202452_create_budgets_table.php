@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('budgets', function (Blueprint $table) {
             $table->id();
             $table->foreignIdFor(\App\Models\User::class);
-            $table->double('budget_amount', 13, 2);
+            $table->float('budget_amount', 13, 2);
             $table->timestamps();
         });
     }
